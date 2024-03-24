@@ -1,8 +1,9 @@
 # SIMAKU FH UNPAS
+# (Sistem Informasi Manajemen Keuangan Fakultas Hukum Universitas Pasundan)
 
 
 
-### About SIMAKU FH UNPAS
+### About SIMAKU FH UNPAS 
 In description, payroll application for employee at Pasundan University Faculty of Law
 
 ## Hi there, this is us 👋
