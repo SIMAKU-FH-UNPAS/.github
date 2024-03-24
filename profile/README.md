@@ -1,5 +1,5 @@
-# SIMAKU FH UNPAS
-### (Sistem Informasi Manajemen Keuangan Fakultas Hukum Universitas Pasundan)
+# SIMAKU FH UNPAS 
+(Sistem Informasi Manajemen Keuangan Fakultas Hukum Universitas Pasundan)
 
 
 
